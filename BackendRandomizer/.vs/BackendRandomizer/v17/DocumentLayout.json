@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\controllers\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\controllers\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\dto\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\dto\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\dto\\weapondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\dto\\weapondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\models\\rollhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\models\\rollhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\controllers\\rollhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\controllers\\rollhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\dto\\rollhistorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\dto\\rollhistorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\models\\weaponattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\models\\weaponattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|f:\\abi_weapon_randomizer\\backendrandomizer\\backendrandomizer\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9B0EFE-6B94-40B1-AE15-2EE84D589B0C}|BackendRandomizer\\BackendRandomizer.csproj|solutionrelative:backendrandomizer\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RollHistoryCreateDto.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\RollHistoryCreateDto.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\DTO\\RollHistoryCreateDto.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\RollHistoryCreateDto.cs",
+              "RelativeToolTip": "BackendRandomizer\\DTO\\RollHistoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:55:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RollHistoryController.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Controllers\\RollHistoryController.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Controllers\\RollHistoryController.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Controllers\\RollHistoryController.cs",
+              "RelativeToolTip": "BackendRandomizer\\Controllers\\RollHistoryController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:28:40.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RollHistory.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\RollHistory.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Models\\RollHistory.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\RollHistory.cs",
+              "RelativeToolTip": "BackendRandomizer\\Models\\RollHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:03:39.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Models\\Attachment.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\Attachment.cs",
+              "RelativeToolTip": "BackendRandomizer\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T18:13:10.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponsController.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Controllers\\WeaponsController.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Controllers\\WeaponsController.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Controllers\\WeaponsController.cs",
+              "RelativeToolTip": "BackendRandomizer\\Controllers\\WeaponsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T10:25:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttachmentDto.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\AttachmentDto.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\DTO\\AttachmentDto.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\AttachmentDto.cs",
+              "RelativeToolTip": "BackendRandomizer\\DTO\\AttachmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:05:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BackendRandomizer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAcwGcBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:00:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Program.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Program.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Program.cs",
+              "RelativeToolTip": "BackendRandomizer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T18:12:05.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponDto.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\WeaponDto.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\DTO\\WeaponDto.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\DTO\\WeaponDto.cs",
+              "RelativeToolTip": "BackendRandomizer\\DTO\\WeaponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:07:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Models\\Weapon.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\Weapon.cs",
+              "RelativeToolTip": "BackendRandomizer\\Models\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T18:12:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponAttachment.cs",
+              "DocumentMoniker": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\WeaponAttachment.cs",
+              "RelativeDocumentMoniker": "BackendRandomizer\\Models\\WeaponAttachment.cs",
+              "ToolTip": "F:\\ABI_weapon_randomizer\\BackendRandomizer\\BackendRandomizer\\Models\\WeaponAttachment.cs",
+              "RelativeToolTip": "BackendRandomizer\\Models\\WeaponAttachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T18:13:49.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
