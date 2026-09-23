@@ -63,3 +63,10 @@ ABIWeaponRandomizer/
 ├── FrontendRandomizer/ # Vue.js
 └── start.bat # skrypt uruchamiający oba serwery naraz
 ```
+
+## Czego się nauczyłem
+
+- Projektowanie własnego algorytmu ważonej losowości na podstawie historii danych
+- Relacje wiele-do-wielu z kluczem złożonym w EFC
+- Migracje EF Core przy rozwijaniu modelu danych w trakcie pracy z projektem
+- Konkretniej odnośnie reaktywności w Vue (ref) i komunikacji z API przez fetch
