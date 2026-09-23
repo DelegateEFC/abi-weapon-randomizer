@@ -36,7 +36,7 @@ Aplikacja full-stack losująca zestaw broni i akcesoriów (na wzór loadout rand
 ### Backend
 
 ```
-cd BackendRandomizer
+cd BackendRandomizer/BackendRandomizer
 dotnet ef database update
 dotnet run --launch-profile https
 ```
@@ -52,6 +52,14 @@ npm.cmd run dev
 Frontend wystartuje na 'http://localhost:5173' <-- TO WPISUJEMY W PRZEGLĄDARCE PO WYSTARTOWANIU FRONTENDU I BACKENDU.
 
 ### Albo oba naraz (Windows)
+```
+cd FrontendRandomizer
+npm.cmd install
+```
+```
+cd BackendRandomizer/BackendRandomizer
+dotnet ef database update
+```
 
 Uruchom `start.bat` w folderze głównym - odpali oba serwery w osobnych oknach terminala.
 
